@@ -183,6 +183,10 @@ p {
     text-align: center;
   }
 
+  .nav-link {
+    font-size: 5rem;
+  }
+
   .container-fluid {
     padding: 0 0 0;
   }
@@ -190,8 +194,7 @@ p {
   .title-img {
     position: static;
     transform: rotate(0);
-    margin: auto;
-    width: auto;
+    width: 100%;
   }
 
   .scroll-up {
