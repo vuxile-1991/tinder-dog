@@ -179,7 +179,7 @@ p {
     text-align: center;
   }
 
-  .navbar-toggler-icon{
+  .navbar-toggler .navbar-toggler-icon{
     width: 8rem;
     height: 8rem;
   }
