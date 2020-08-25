@@ -175,7 +175,7 @@ p {
 
 /* Media device _______________________________________________________________*/
 @media (max-width: 1000px) {
-  #title {
+  #title .container-fluid {
     text-align: center;
   }
 
